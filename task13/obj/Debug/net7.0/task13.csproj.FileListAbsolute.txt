@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\C#Home\seminar1\task13\bin\Debug\net7.0\task13.exe
+C:\Users\Asus\Desktop\C#Home\seminar1\task13\bin\Debug\net7.0\task13.deps.json
+C:\Users\Asus\Desktop\C#Home\seminar1\task13\bin\Debug\net7.0\task13.runtimeconfig.json
+C:\Users\Asus\Desktop\C#Home\seminar1\task13\bin\Debug\net7.0\task13.dll
+C:\Users\Asus\Desktop\C#Home\seminar1\task13\bin\Debug\net7.0\task13.pdb
+C:\Users\Asus\Desktop\C#Home\seminar1\task13\obj\Debug\net7.0\task13.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\C#Home\seminar1\task13\obj\Debug\net7.0\task13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\C#Home\seminar1\task13\obj\Debug\net7.0\task13.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\C#Home\seminar1\task13\obj\Debug\net7.0\task13.AssemblyInfo.cs
+C:\Users\Asus\Desktop\C#Home\seminar1\task13\obj\Debug\net7.0\task13.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\C#Home\seminar1\task13\obj\Debug\net7.0\task13.dll
+C:\Users\Asus\Desktop\C#Home\seminar1\task13\obj\Debug\net7.0\refint\task13.dll
+C:\Users\Asus\Desktop\C#Home\seminar1\task13\obj\Debug\net7.0\task13.pdb
+C:\Users\Asus\Desktop\C#Home\seminar1\task13\obj\Debug\net7.0\task13.genruntimeconfig.cache
+C:\Users\Asus\Desktop\C#Home\seminar1\task13\obj\Debug\net7.0\ref\task13.dll
